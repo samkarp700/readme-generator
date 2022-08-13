@@ -1,4 +1,4 @@
-# title test
+# test
   ## Table of Contents:
   - [Description](#description)
   - [Installation](#installation)
@@ -22,8 +22,8 @@
   ### Credits
   test
   ### License
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
   ### Questions? Reach out:
-  - View my Github: [undefined](https://github.com/undefined)
-  - Email: [email](mailto:user@email.com)
+  - View my Github: [samkarp700](https://github.com/samkarp700)
+  - Email: [samcypret@gmail.com](mailto:user@email.com)
 

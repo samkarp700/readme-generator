@@ -138,7 +138,7 @@ function init() {
     inquirer.prompt(questions)
     .then(function(devInput) {
         console.log(devInput)
-        writeToFile('./develop/README.md', generateMarkdown(devInput));
+        writeToFile('./test/README.md', generateMarkdown(devInput));
     });
 };
 

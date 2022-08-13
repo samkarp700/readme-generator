@@ -90,7 +90,35 @@ const questions = [
                 {
                     name:'WTFPL',
                     value: '[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)'
+                }, 
+                // questions section
+                {
+                    type: 'input', 
+                    name: 'GitHub', 
+                    message: 'Please put the link to your GitHub (Required)', 
+                    validate: githubInput => {
+                        if (githubInput) {
+                            return true;
+                        } else {
+                            console.log('Please put the link to your Github!');
+                            return false;
+                        }
+                    }
+                }, 
+                {
+                    type: 'input', 
+                    name: 'email', 
+                    message: 'What is your email? (Required)', 
+                    validate: emailInput => {
+                        if(emailInput) {
+                            return true;
+                        } else {
+                            console.log('Please put your email address');
+                            return false;
+                        }
+                    }
                 }
+
             ]
         }
     ];

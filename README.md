@@ -1,19 +1,20 @@
-# ReadMe Generator
+# TITLE
   ## Table of Contents:
-  - [Description]{#what}
+  - [Description]{#description}
   - [Installation]{#installation}
   - [Usage]{#usage}
   - [Credits]{#credits}
   - [License]{#licence}
+  
   ## Description
   #### Motivation:
-  Motivation
+  
   #### Reason for building this application:
-  because ya know
+  
   #### Problems Solved:
-  all the probs
+  
   #### Lessons learned:
-  node
+  
   ## Installation
   n/a
   ## Usage
@@ -21,8 +22,8 @@
   ### Credits
   n/a
   ### License
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   ### Questions? Reach out:
   - View my Github: undefined
   - Email: [samcypret@gmail.com](mailto:user@email.com)
-  
+

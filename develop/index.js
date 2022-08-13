@@ -70,9 +70,28 @@ const questions = [
         }, 
         //license section
         {
-            type:'input', 
+            type:'list', 
             name: 'license', 
-            message: 'Please list any licenses here.'
+            message: 'Please select a license for your project.',
+            choices: [
+                {
+                    name: 'GNU', 
+                    value: '[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)'
+                }, 
+                {
+                    name: 'MIT', 
+                    value: '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)'
+
+                }, 
+                {
+                    name:'Apache', 
+                    value: '[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)'
+                }, 
+                {
+                    name:'WTFPL',
+                    value: '[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)'
+                }
+            ]
         }
     ];
 

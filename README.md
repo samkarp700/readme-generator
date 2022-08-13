@@ -1,11 +1,15 @@
-# title
+# Project Title 
   # Description
-  that drive
-  cause ya know
-  readme
-  lots
+  ### Motivation
+  To build an app that creates a readme file for a developer's project
+  ### Reason for building this application
+  To help other developers
+  ### Problems Solved
+  Time saved for developers
+  ### Lessons learned
+  learned more about node
   ## Installation
-  install steps
+  installation steps 1 and 2
   ## Usage
   usage steps
   ### Credits

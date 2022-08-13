@@ -3,7 +3,7 @@
 function generateMarkdown(data) {
   return `# ${data.title}
   ## Table of Contents:
-  - [Description]{#what}
+  - [Description]{#description}
   - [Installation]{#installation}
   - [Usage]{#usage}
   - [Credits]{#credits}
@@ -28,7 +28,7 @@ function generateMarkdown(data) {
   ### Questions? Reach out:
   - View my Github: ${data.github}
   - Email: [${data.email}](mailto:user@email.com)
-  
+
 `;
 }
 

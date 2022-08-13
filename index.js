@@ -96,12 +96,12 @@ const questions = [
                 {
                     type: 'input', 
                     name: 'GitHub', 
-                    message: 'Please put the link to your GitHub (Required)', 
+                    message: 'What is your GitHub Name? (Required)', 
                     validate: githubInput => {
                         if (githubInput) {
                             return true;
                         } else {
-                            console.log('Please put the link to your Github!');
+                            console.log('Please put the name of your Github!');
                             return false;
                         }
                     }

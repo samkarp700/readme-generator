@@ -90,7 +90,8 @@ const questions = [
                 {
                     name:'WTFPL',
                     value: '[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)'
-                }, 
+                }]
+        },
                 // questions section
                 {
                     type: 'input', 
@@ -118,9 +119,6 @@ const questions = [
                         }
                     }
                 }
-
-            ]
-        }
     ];
 
 

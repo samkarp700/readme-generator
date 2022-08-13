@@ -1,18 +1,28 @@
-# Project Title 
-  # Description
-  ### Motivation
-  To build an app that creates a readme file for a developer's project
-  ### Reason for building this application
-  To help other developers
-  ### Problems Solved
-  Time saved for developers
-  ### Lessons learned
-  learned more about node
+# ReadMe Generator
+  ## Table of Contents:
+  - [Description]{#what}
+  - [Installation]{#installation}
+  - [Usage]{#usage}
+  - [Credits]{#credits}
+  - [License]{#licence}
+  ## Description
+  #### Motivation:
+  Motivation
+  #### Reason for building this application:
+  because ya know
+  #### Problems Solved:
+  all the probs
+  #### Lessons learned:
+  node
   ## Installation
-  installation steps 1 and 2
+  n/a
   ## Usage
-  usage steps
+  n/a
   ### Credits
   n/a
   ### License
-  [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  ### Questions? Reach out:
+  - View my Github: undefined
+  - Email: [samcypret@gmail.com](mailto:user@email.com)
+  

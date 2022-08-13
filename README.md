@@ -8,13 +8,13 @@
 
   ## Description
   #### Motivation:
-  To create a simple readme generator to help other developers.
+  To create a simple readme generator for other developers.
   #### Reason for building this application:
-  To help developers save time. 
+  To help other developers like myself create easy readme generators
   #### Problems Solved:
-  Creates a readme file for a developers application.
+  Saves time! Helps create a proper markdown sheet for github readme pages.
   #### Lessons learned:
-  extended node 
+  expanded Node knowledge. 
   ## Installation
   n/a
   ## Usage

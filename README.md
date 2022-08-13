@@ -1,29 +1,12 @@
 # ReadMe Generator
-  ## Table of Contents:
-  - [Description](#description)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
-  - [License](#licence)
-
+ 
   ## Description
-  #### Motivation:
-  To create a simple readme generator for other developers.
-  #### Reason for building this application:
-  To help other developers like myself create easy readme generators
-  #### Problems Solved:
-  Saves time! Helps create a proper markdown sheet for github readme pages.
-  #### Lessons learned:
-  expanded Node knowledge. 
-  ## Installation
-  n/a
-  ## Usage
-  n/a
-  ### Credits
-  n/a
-  ### License
-  [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
-  ### Questions? Reach out:
-  - View my Github: [samkarp700](https://github.com/samkarp700)
-  - Email: [samcypret@gmail.com](mailto:user@email.com)
+This is a simple README file generator that helps other developers save time and trouble with markup syntax in a github readme file. 
+My application was created using Javascript, Node and Inquirer. 
+
+Here is a quick video that shows how my readme generator works! Check it out.
+[screencastreadmegen.webm](https://user-images.githubusercontent.com/105761973/184507359-1d2de9af-ede8-4857-80b9-ffece3bdf50e.webm)
+
+
+
 

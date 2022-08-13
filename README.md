@@ -1,4 +1,4 @@
-# test
+# ReadMe Generator
   ## Table of Contents:
   - [Description](#description)
   - [Installation](#installation)
@@ -8,19 +8,19 @@
 
   ## Description
   #### Motivation:
-  test
+  To create a simple readme generator to help other developers.
   #### Reason for building this application:
-  test
+  To help developers save time. 
   #### Problems Solved:
-  test
+  Creates a readme file for a developers application.
   #### Lessons learned:
-  test
+  extended node 
   ## Installation
-  test
+  n/a
   ## Usage
-  test
+  n/a
   ### Credits
-  test
+  n/a
   ### License
   [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
   ### Questions? Reach out:
